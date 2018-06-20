@@ -1,5 +1,6 @@
 ## A Reactjs based online currency calculator with real time exchange rates using OFX API
-#Angular 6 based B2C currency calculator app which is based on the ofx currency calculator API
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ##About OFX
 OFX, previously known as OzForex is an Australian online foreign exchange and payments company with headquarters in Sydney.
@@ -7,8 +8,6 @@ OFX, previously known as OzForex is an Australian online foreign exchange and pa
 ##Details of API
 https://api.ofx.com/PublicSite.ApiService/OFX/spotrate/Individual
 
-##Angular version
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ##Utilization
 This app can be used as module in web applications to use the feature of currency calcuator using OFX API. 
@@ -34,12 +33,6 @@ You can experience the app at `https://deepeshdesigns.github.io/ofx/`
 The production code can be found at the location `https://github.com/deepeshdesigns/of`
 
 ##About the source repository
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
